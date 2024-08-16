@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ld {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-left: 40%;
+    width: 248px;
+    height: 120px;
+}
+
+.linha {
+    width: 1400px;
+    height: 3px;
+    background-color: black;
+    border-radius: 3px;
+    margin-left: 250px;
+}
+
+.ev {
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.cc {
+    margin-right: 730px;
+    margin-top: 60px;
+}
+
+.bv {
+    margin-top: 80px;
+    font-size: 17px;
+}
+
+.Qs {
+    color: rgb(160, 160, 160);
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.box1
+{
+    width: 424px;
+    height: 53px;
+    border-radius: 32px;
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    border: 1px solid;
+    margin-top:10px ;
+    margin-left: 30px;
+}
+
+.qs3
+{
+    color: rgb(160, 160, 160);
+    margin-left: 50px;
+    margin-top: 30px;  
+}
+
+.box2
+{
+    width: 424px;
+    height: 53px;
+    border-radius: 32px;
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    border: 1px solid;
+    margin-top:10px ;
+    margin-left: 30px;  
+}
+
+.box3
+{
+    width: 424px;
+    height: 53px;
+    border-radius: 32px;
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    border: 1px solid;
+    margin-top:10px ;
+    margin-left: 30px;  
+}
+
+.qs2
+{
+    color: rgb(160, 160, 160);
+    margin-left: 50px;
+    margin-top: 30px;  
+}
+
+.box4
+{
+    text-align: center;
+    width: 430px;
+    height: 59px;
+    border-radius: 32px;
+    background-color: rgb(160, 160, 160);
+    margin-top:50px ;
+    margin-left: 30px;  
+}
+
+.p{
+    position: absolute;
+    top: 727px;
+    right: 715px;
+    color: white;
+}
+
+.box4:hover {background-color: red;}
+
+.cd{
+    margin-left: 179px;
+    margin-top: 30px;
+    color: rgb(255, 0, 0);
+}
+
+.cd:hover {color: darkblue;}
